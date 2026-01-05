@@ -1,21 +1,16 @@
 # WiDS-2025
 
 ## Midterm Submission Report
+### Week 1: Math and Graphs with Python
 
-Week 1 Assignment: Math and Graphs with Python
+In this assignment, I worked with Python and NumPy to create and handle different types of data. I created lists, matrices, random arrays, and arrays filled with zeros. I then performed basic mathematical operations like addition, multiplication, and calculating averages.
 
-Creating Data: Wrote code to initialize lists of numbers and matrices, including generating arrays with random values and zeros.
+I also compared normal Python loops with NumPy operations and observed that NumPy works much faster. Along with this, I solved a probability and statistics assignment, which helped me revise basic concepts like averages, distributions, and data analysis.
 
-Doing Math: Performed various calculations such as addition, multiplication, and finding averages on these arrays using NumPy.
+Finally, I plotted a simple line graph to show how temperature changes over time.
 
-Speed Test: Demonstrated that using NumPy’s vectorized operations is significantly faster than using standard Python loops.
+### Week 2: Statistics and Prediction
 
-Plotting: Created a line graph to visualize temperature changes over time.
+For this week, I studied a regression model related to starting salaries. From the analysis, I found that males tend to earn higher salaries than females when the GPA is high, based on the interaction terms in the model.
 
-Week 2 Assignment: Statistics and Prediction
-
-Salary Study: Analyzed a theoretical regression model for starting salaries. I determined that, based on the model's interaction terms, males earned higher average salaries than females specifically when GPAs were high.
-
-Car Data: Processed real automotive data to investigate the relationship between engine power and fuel efficiency.
-
-The Result: My analysis using OLS regression confirmed a statistically significant negative relationship, showing that as horsepower increases, gas mileage (MPG) decreases.
+I also analyzed a real car dataset to understand how engine power affects fuel efficiency. Using OLS regression, I found that as horsepower increases, the mileage (MPG) decreases, and this relationship was statistically significant.

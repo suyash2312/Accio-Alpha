@@ -1,21 +1,21 @@
-# WiDS-2025
+## WiDS-2025
 
-Welcome to Winter in Data Science Program!
-This README will guide you through the resources and materials provided in this repository to ensure a smooth and effective learning experience.  
+#Midterm Submission Report
 
-## Table of Contents
+Week 1 Assignment: Math and Graphs with Python
 
-1. [Week-1](/Week-1/)   
-    We'll be diving into the fundamentals of Python and essential data science libraries such as NumPy and Matplotlib. Also, with some basics of Statistics.
-   Week-1 Submission :
-3. [Week-2](/Week-2/)
-4. [Week-3](/Week-3/)
-5. [Week-4](/Week-4/)
-6. [BONUS WEEK](/BONUS/)   
-## Getting Started
+Creating Data: Wrote code to initialize lists of numbers and matrices, including generating arrays with random values and zeros.
 
-Clone this repository to your local machine using the following command:
+Doing Math: Performed various calculations such as addition, multiplication, and finding averages on these arrays using NumPy.
 
-```
-git clone https://github.com/shreshtha21/Accio-Alpha
-```
+Speed Test: Demonstrated that using NumPy’s vectorized operations is significantly faster than using standard Python loops.
+
+Plotting: Created a line graph to visualize temperature changes over time.
+
+Week 2 Assignment: Statistics and Prediction
+
+Salary Study: Analyzed a theoretical regression model for starting salaries. I determined that, based on the model's interaction terms, males earned higher average salaries than females specifically when GPAs were high.
+
+Car Data: Processed real automotive data to investigate the relationship between engine power and fuel efficiency.
+
+The Result: My analysis using OLS regression confirmed a statistically significant negative relationship, showing that as horsepower increases, gas mileage (MPG) decreases.

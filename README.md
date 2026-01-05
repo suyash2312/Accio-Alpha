@@ -3,14 +3,10 @@
 ## Midterm Submission Report
 ### Week 1: Math and Graphs with Python
 
-In this assignment, I worked with Python and NumPy to create and handle different types of data. I created lists, matrices, random arrays, and arrays filled with zeros. I then performed basic mathematical operations like addition, multiplication, and calculating averages.
-
-I also compared normal Python loops with NumPy operations and observed that NumPy works much faster. Along with this, I solved a probability and statistics assignment, which helped me revise basic concepts like averages, distributions, and data analysis.
-
-Finally, I plotted a simple line graph to show how temperature changes over time.
+In week 1, I used Python and NumPy to work with data types like lists, matrices, random arrays, and zero arrays. Performed simple math operations such as addition, multiplication, and finding averages. Also checked the speed difference between Python loops and NumPy operations and found that NumPy is much faster for arrays than using arrays directly.
+Along with this, I solved a probability and statistics assignment. It was a written assignment.Finally, I also plotted a line graph to show how temperature changes over time.
 
 ### Week 2: Statistics and Prediction
 
-For this week, I studied a regression model related to starting salaries. From the analysis, I found that males tend to earn higher salaries than females when the GPA is high, based on the interaction terms in the model.
-
-I also analyzed a real car dataset to understand how engine power affects fuel efficiency. Using OLS regression, I found that as horsepower increases, the mileage (MPG) decreases, and this relationship was statistically significant.
+In week 2, I worked on basic statistics and regression. Analyzed a salary model and observed that males had higher average salaries than females when GPA was high, based on the interaction term, there were other terms as well each with their significance.
+I also worked with a car dataset to study the relation between horsepower and mileage. From the regression results, found that mileage decreases as horsepower increases, and the relationship was statistically significant.

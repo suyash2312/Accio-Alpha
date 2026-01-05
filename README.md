@@ -1,6 +1,6 @@
 ## WiDS-2025
 
-#Midterm Submission Report
+# Midterm Submission Report
 
 Week 1 Assignment: Math and Graphs with Python
 

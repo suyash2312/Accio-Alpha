@@ -1,7 +1,7 @@
 # WiDS-2025
 
-All the submissions done, like assignment,codes are in "Submissions" folder.
-The weekly folders contain resources for that week.
+#### All the submissions done, like assignment,codes are in "Submissions" folder.
+#### The weekly folders contain resources for that week.
 
 ## Midterm Submission Report
 ### Week 1: Math and Graphs with Python
